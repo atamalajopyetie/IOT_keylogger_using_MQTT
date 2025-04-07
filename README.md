@@ -36,7 +36,7 @@ The sample keys are provided to you and the sample textfiles are provided as wel
 
 ---
 
-##🚀 How to Run
+## 🚀 How to Run
 On Raspberry Pi:
 `python3 key_generation.py    # (Run once)`
 `python3 server.py`
@@ -49,7 +49,7 @@ Install pynput and cryptography if not installed:
 
 Transfer public_key.pem to the client (laptop) via SCP, USB, etc.
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 This tool is created strictly for educational and ethical research purposes only. Unauthorized keylogging or surveillance without explicit permission is illegal and unethical. Use responsibly.
 
 [Video of working model](https://drive.google.com/file/d/1SvaFqat4ApiX03u0O4HUiX92ge7rPDVk/view?usp=drive_link "Video of working model")
